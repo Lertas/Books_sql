@@ -1,7 +1,7 @@
 ## Bookstore_sql
 "This project is licensed under the terms of the MIT license."
 
-Msc in Data Science 2020-21, NCSR 'Demokritos'. Data Management course. Semester 1st
+Msc in Data Science 2020-21, NCSR 'Demokritos'. Data Management course. 1st Semester.
 
 Create a database for a bookstore with schema in postgresql.
 We load data to python for preprocessing, because it had some missing values 
